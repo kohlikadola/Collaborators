@@ -1,5 +1,5 @@
 .joinBoxWrapper {
-    background-color: #fcfcfc;
+    background-color: #2f2e28
     min-height: 100vh;
     display: grid;
     place-items: center;
@@ -19,8 +19,8 @@
 .joinBoxBtn {
     padding: 8px 15px;
     color: white;
-    background-color: #ffdd00;
-    border: 1px solid #ffdd00;
+    background-color: #00f81d;
+    border: 1px solid #00f81d;
     outline: none;
     border-radius: 25px;
     font-size: 75%;
